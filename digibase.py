@@ -42,7 +42,7 @@ db = mysql.connector.connect(
     host = 'localhost',
     port = 3306,
     user = 'root',
-    passwd = 'kahfi2008',
+    passwd = 'TULIS PASSWORDMU',
     database = 'digimon'
 )
 
